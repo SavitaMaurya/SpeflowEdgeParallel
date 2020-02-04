@@ -1,0 +1,3 @@
+Change testThreadCount = 1 to run test in sequnce . It will pass.
+
+Error occurs when running test in parallel by setting  testThreadCount="2" 
